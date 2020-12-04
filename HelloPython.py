@@ -1,7 +1,6 @@
 import datetime
-print("Hello world!")
-print("agile processes is the best")
-print("adding another test line")
+print("Hello world!") 
+printf("adding another test line")
 x = 21
 print("x value = ", x )
 
