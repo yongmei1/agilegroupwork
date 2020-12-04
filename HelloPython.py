@@ -1,7 +1,7 @@
 import datetime
 print("Hello world!") 
-printf("adding another test line")
-x = 21
+print("adding another test line")
+x = 22
 print("x value = ", x )
 
 now = datetime.datetime.now()
