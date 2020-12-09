@@ -1,6 +1,7 @@
 import datetime
 print("Hello world!") 
 print("adding another test line")
+print("hi")
 x = 22
 print("x value = ", x )
 
