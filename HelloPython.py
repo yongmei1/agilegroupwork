@@ -1,6 +1,6 @@
 import datetime
 print("Hello world!") 
-printf("adding another test line")
+print("adding another test line")
 print("hi")
 x = 22
 print("x value = ", x )
