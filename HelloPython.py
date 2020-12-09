@@ -6,7 +6,7 @@ x = 22
 print("x value = ", x )
 
 now = datetime.datetime.now()
-printf("test")
+print("test")
 print ("Current date and time is ")
 print (now.strftime("%A, %d-%m-%Y : %H:%M"))	
 
